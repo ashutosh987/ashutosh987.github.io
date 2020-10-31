@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.bd4e58e4.chunk.css",
-    "main.js": "/static/js/main.b4540ea3.chunk.js",
-    "main.js.map": "/static/js/main.b4540ea3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9e2a126c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9e2a126c.js.map",
-    "static/js/2.f032ff06.chunk.js": "/static/js/2.f032ff06.chunk.js",
-    "static/js/2.f032ff06.chunk.js.map": "/static/js/2.f032ff06.chunk.js.map",
+    "main.js": "/static/js/main.c8d07efd.chunk.js",
+    "main.js.map": "/static/js/main.c8d07efd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd70b653.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd70b653.js.map",
+    "static/js/2.d8db3f42.chunk.js": "/static/js/2.d8db3f42.chunk.js",
+    "static/js/2.d8db3f42.chunk.js.map": "/static/js/2.d8db3f42.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/static/css/3.00373544.chunk.css",
-    "static/js/3.58092917.chunk.js": "/static/js/3.58092917.chunk.js",
-    "static/js/3.58092917.chunk.js.map": "/static/js/3.58092917.chunk.js.map",
+    "static/js/3.903fcb1d.chunk.js": "/static/js/3.903fcb1d.chunk.js",
+    "static/js/3.903fcb1d.chunk.js.map": "/static/js/3.903fcb1d.chunk.js.map",
     "static/css/4.a922a401.chunk.css": "/static/css/4.a922a401.chunk.css",
-    "static/js/4.99ff321c.chunk.js": "/static/js/4.99ff321c.chunk.js",
-    "static/js/4.99ff321c.chunk.js.map": "/static/js/4.99ff321c.chunk.js.map",
+    "static/js/4.3e5632a0.chunk.js": "/static/js/4.3e5632a0.chunk.js",
+    "static/js/4.3e5632a0.chunk.js.map": "/static/js/4.3e5632a0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.397c35f0759f5fcd04f446ba5209a5f6.js": "/precache-manifest.397c35f0759f5fcd04f446ba5209a5f6.js",
+    "precache-manifest.adebfd51cfa39d876fbcb2d41ef82167.js": "/precache-manifest.adebfd51cfa39d876fbcb2d41ef82167.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/static/css/4.a922a401.chunk.css.map",
@@ -44,9 +44,9 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e2a126c.js",
-    "static/js/2.f032ff06.chunk.js",
+    "static/js/runtime-main.cd70b653.js",
+    "static/js/2.d8db3f42.chunk.js",
     "static/css/main.bd4e58e4.chunk.css",
-    "static/js/main.b4540ea3.chunk.js"
+    "static/js/main.c8d07efd.chunk.js"
   ]
 }

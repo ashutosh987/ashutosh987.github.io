@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a990d9c749edcfd8e61274eb35edb460",
+    "revision": "77da4653dcf1bf5104797ee671d3c10e",
     "url": "/index.html"
   },
   {
-    "revision": "48da32e9933eec7178ff",
+    "revision": "afdbba9e7eccfefaaf11",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "2a9ca3a146e44c398ecd",
+    "revision": "31fcd2fdf5fc498fe9f1",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "4e48de737a864cd03a33",
-    "url": "/static/css/main.bd4e58e4.chunk.css"
+    "revision": "dd1a91bb881610fa5c7a",
+    "url": "/static/css/main.f01c3be0.chunk.css"
   },
   {
-    "revision": "a259a18eeb9d148f8e69",
-    "url": "/static/js/2.ef28a345.chunk.js"
+    "revision": "91b28b03ca5cc38dd51a",
+    "url": "/static/js/2.d9ae8116.chunk.js"
   },
   {
-    "revision": "48da32e9933eec7178ff",
-    "url": "/static/js/3.6f093d44.chunk.js"
+    "revision": "afdbba9e7eccfefaaf11",
+    "url": "/static/js/3.2e2ac01f.chunk.js"
   },
   {
-    "revision": "2a9ca3a146e44c398ecd",
-    "url": "/static/js/4.c46fee86.chunk.js"
+    "revision": "31fcd2fdf5fc498fe9f1",
+    "url": "/static/js/4.b589bd30.chunk.js"
   },
   {
-    "revision": "4e48de737a864cd03a33",
-    "url": "/static/js/main.d3c8c8e2.chunk.js"
+    "revision": "dd1a91bb881610fa5c7a",
+    "url": "/static/js/main.a344f2c1.chunk.js"
   },
   {
-    "revision": "af4289993d6127efa75f",
-    "url": "/static/js/runtime-main.cfb52af4.js"
+    "revision": "7120336a3d1e325fea1c",
+    "url": "/static/js/runtime-main.42db252b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -74,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87336a6be2b7509a12d252a57f2b8431",
     "url": "/static/media/fake.87336a6b.webp"
+  },
+  {
+    "revision": "4f0e694f62482252b300717edf2b6434",
+    "url": "/static/media/fake1.4f0e694f.webp"
+  },
+  {
+    "revision": "62df5b10d5360e7f071c3926f0df5884",
+    "url": "/static/media/fake2.62df5b10.png"
   },
   {
     "revision": "c24ba79111a90758a3a472a906ab2901",

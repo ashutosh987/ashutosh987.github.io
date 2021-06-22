@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc1b80cc5c9b462fd419e3c8b5a4da8d",
+    "revision": "a990d9c749edcfd8e61274eb35edb460",
     "url": "/index.html"
   },
   {
-    "revision": "733cd1a5012396332974",
+    "revision": "48da32e9933eec7178ff",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "73f57a20d023dc70cc18",
+    "revision": "2a9ca3a146e44c398ecd",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "7d52d3f912d3d628a96f",
+    "revision": "4e48de737a864cd03a33",
     "url": "/static/css/main.bd4e58e4.chunk.css"
   },
   {
-    "revision": "b8ce75504fd759057d8e",
-    "url": "/static/js/2.720c04ad.chunk.js"
+    "revision": "a259a18eeb9d148f8e69",
+    "url": "/static/js/2.ef28a345.chunk.js"
   },
   {
-    "revision": "733cd1a5012396332974",
-    "url": "/static/js/3.e241053f.chunk.js"
+    "revision": "48da32e9933eec7178ff",
+    "url": "/static/js/3.6f093d44.chunk.js"
   },
   {
-    "revision": "73f57a20d023dc70cc18",
-    "url": "/static/js/4.66c48033.chunk.js"
+    "revision": "2a9ca3a146e44c398ecd",
+    "url": "/static/js/4.c46fee86.chunk.js"
   },
   {
-    "revision": "7d52d3f912d3d628a96f",
-    "url": "/static/js/main.83efad71.chunk.js"
+    "revision": "4e48de737a864cd03a33",
+    "url": "/static/js/main.d3c8c8e2.chunk.js"
   },
   {
-    "revision": "590a3ecb0cae5640108a",
-    "url": "/static/js/runtime-main.1cd5775f.js"
+    "revision": "af4289993d6127efa75f",
+    "url": "/static/js/runtime-main.cfb52af4.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
+    "revision": "87336a6be2b7509a12d252a57f2b8431",
+    "url": "/static/media/fake.87336a6b.webp"
+  },
+  {
     "revision": "c24ba79111a90758a3a472a906ab2901",
     "url": "/static/media/googleAssistant.c24ba791.svg"
   },
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83a05b10639d238bd8c5bbab279ab911",
     "url": "/static/media/harvardLogo.83a05b10.png"
+  },
+  {
+    "revision": "64bbb49a5779a88546bf47efade6a861",
+    "url": "/static/media/industry.64bbb49a.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
@@ -126,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
+  },
+  {
+    "revision": "4ea175186e1d55c96a297a4180f345d2",
+    "url": "/static/media/quiz.4ea17518.webp"
   },
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
